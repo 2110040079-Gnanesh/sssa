@@ -1,0 +1,5 @@
+
+project_id = "heuxovfowuvcejxuntxr"
+
+[functions.groq-chat]
+verify_jwt = true
